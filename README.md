@@ -1,4 +1,3 @@
-# 💫 About Me:
 I'm currently learning Java, CSS, and JS
 
 
