@@ -1,4 +1,4 @@
-I'm currently learning Java, CSS, and JS
+# I'm currently learning Java, CSS, and JS
 
 
 ## 🌐 Socials:
